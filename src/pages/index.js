@@ -1,0 +1,9 @@
+export { default as Landing } from './Landing';
+export { default as Login } from './Login';
+export { default as Register } from './Register';
+export { default as Dashboard } from './Dashboard';
+export { default as Jobs } from './Jobs';
+export { default as JobDetails } from './JobDetails';
+export { default as SavedJobs } from './SavedJobs';
+export { default as Companies } from './Companies';
+export { default as Profile } from './Profile';

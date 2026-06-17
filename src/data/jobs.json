@@ -1,0 +1,332 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "title": "Frontend Developer",
+      "company": "Tech Innovators Inc.",
+      "companyLogo": "https://images.unsplash.com/photo-1633356122544-f134324ef6db?w=100&h=100&fit=crop",
+      "location": "Bangalore",
+      "salary": "8-12 LPA",
+      "experience": "1-3 Years",
+      "jobType": "Full-Time",
+      "postedDate": "2 days ago",
+      "description": "We are looking for an experienced Frontend Developer to join our dynamic team.",
+      "responsibilities": [
+        "Develop and maintain responsive web applications",
+        "Collaborate with UI/UX designers",
+        "Optimize code for performance",
+        "Participate in code reviews"
+      ],
+      "requirements": [
+        "3+ years of React.js experience",
+        "Strong CSS and JavaScript skills",
+        "Experience with Redux",
+        "Git version control"
+      ],
+      "skills": ["React", "JavaScript", "CSS", "HTML", "Redux"],
+      "about": "Tech Innovators Inc. is a leading software development company specializing in web and mobile applications.",
+      "industry": "Information Technology",
+      "employees": "500+",
+      "website": "www.techinnovators.com"
+    },
+    {
+      "id": 2,
+      "title": "Backend Developer",
+      "company": "CloudSync Solutions",
+      "companyLogo": "https://images.unsplash.com/photo-1633356122544-f134324ef6db?w=100&h=100&fit=crop",
+      "location": "Hyderabad",
+      "salary": "10-15 LPA",
+      "experience": "2-4 Years",
+      "jobType": "Full-Time",
+      "postedDate": "3 days ago",
+      "description": "Join our backend team to build scalable APIs and microservices.",
+      "responsibilities": [
+        "Design and implement REST APIs",
+        "Work with databases and caching layers",
+        "Ensure code quality and security",
+        "Deploy and monitor applications"
+      ],
+      "requirements": [
+        "Strong Node.js or Python experience",
+        "Database design knowledge",
+        "Experience with Docker",
+        "API security best practices"
+      ],
+      "skills": ["Node.js", "Python", "MongoDB", "PostgreSQL", "Docker"],
+      "about": "CloudSync Solutions provides cloud infrastructure and development services.",
+      "industry": "Cloud Computing",
+      "employees": "200+",
+      "website": "www.cloudsync.com"
+    },
+    {
+      "id": 3,
+      "title": "Full Stack Developer",
+      "company": "WebDynamics Ltd.",
+      "companyLogo": "https://images.unsplash.com/photo-1633356122544-f134324ef6db?w=100&h=100&fit=crop",
+      "location": "Chennai",
+      "salary": "12-18 LPA",
+      "experience": "3-5 Years",
+      "jobType": "Full-Time",
+      "postedDate": "1 day ago",
+      "description": "We need a skilled Full Stack Developer to build end-to-end solutions.",
+      "responsibilities": [
+        "Develop frontend and backend features",
+        "Manage databases and APIs",
+        "Optimize application performance",
+        "Mentor junior developers"
+      ],
+      "requirements": [
+        "5+ years of development experience",
+        "Proficiency in React and Node.js",
+        "Strong problem-solving skills",
+        "Experience with DevOps"
+      ],
+      "skills": ["React", "Node.js", "JavaScript", "MongoDB", "AWS"],
+      "about": "WebDynamics Ltd. is a digital transformation leader.",
+      "industry": "Software Development",
+      "employees": "1000+",
+      "website": "www.webdynamics.com"
+    },
+    {
+      "id": 4,
+      "title": "Data Analyst",
+      "company": "Analytics Pro Inc.",
+      "companyLogo": "https://images.unsplash.com/photo-1633356122544-f134324ef6db?w=100&h=100&fit=crop",
+      "location": "Mumbai",
+      "salary": "6-10 LPA",
+      "experience": "Fresher",
+      "jobType": "Full-Time",
+      "postedDate": "4 days ago",
+      "description": "Looking for a Data Analyst to help us understand our data better.",
+      "responsibilities": [
+        "Analyze business data",
+        "Create data visualizations",
+        "Generate insights and reports",
+        "Support decision-making process"
+      ],
+      "requirements": [
+        "Strong Excel and SQL skills",
+        "Experience with Power BI or Tableau",
+        "Statistical knowledge",
+        "Attention to detail"
+      ],
+      "skills": ["SQL", "Excel", "Python", "Power BI", "Tableau"],
+      "about": "Analytics Pro Inc. specializes in business intelligence solutions.",
+      "industry": "Data Analytics",
+      "employees": "300+",
+      "website": "www.analyticspro.com"
+    },
+    {
+      "id": 5,
+      "title": "UI/UX Designer",
+      "company": "DesignStudio Co.",
+      "companyLogo": "https://images.unsplash.com/photo-1633356122544-f134324ef6db?w=100&h=100&fit=crop",
+      "location": "Pune",
+      "salary": "5-8 LPA",
+      "experience": "0-2 Years",
+      "jobType": "Full-Time",
+      "postedDate": "5 days ago",
+      "description": "Join our creative team to design amazing user experiences.",
+      "responsibilities": [
+        "Design wireframes and prototypes",
+        "Conduct user research",
+        "Collaborate with developers",
+        "Iterate on designs based on feedback"
+      ],
+      "requirements": [
+        "Proficiency in Figma or Adobe XD",
+        "Strong portfolio",
+        "User research experience",
+        "Attention to detail"
+      ],
+      "skills": ["Figma", "Adobe XD", "Prototyping", "Wireframing", "Research"],
+      "about": "DesignStudio Co. is a leading design agency.",
+      "industry": "Design & Creative",
+      "employees": "150+",
+      "website": "www.designstudio.co"
+    },
+    {
+      "id": 6,
+      "title": "DevOps Engineer",
+      "company": "InfraCloud Systems",
+      "companyLogo": "https://images.unsplash.com/photo-1633356122544-f134324ef6db?w=100&h=100&fit=crop",
+      "location": "Remote",
+      "salary": "15-20 LPA",
+      "experience": "3-5 Years",
+      "jobType": "Full-Time",
+      "postedDate": "2 days ago",
+      "description": "Help us manage and scale our cloud infrastructure.",
+      "responsibilities": [
+        "Manage cloud infrastructure",
+        "Automate deployment processes",
+        "Monitor system performance",
+        "Ensure security and compliance"
+      ],
+      "requirements": [
+        "Strong AWS or Azure knowledge",
+        "Experience with Kubernetes",
+        "Scripting skills",
+        "Linux administration"
+      ],
+      "skills": ["AWS", "Docker", "Kubernetes", "Linux", "Terraform"],
+      "about": "InfraCloud Systems provides infrastructure solutions.",
+      "industry": "Infrastructure & Hosting",
+      "employees": "400+",
+      "website": "www.infracloud.com"
+    },
+    {
+      "id": 7,
+      "title": "Data Scientist",
+      "company": "AI Solutions Ltd.",
+      "companyLogo": "https://images.unsplash.com/photo-1633356122544-f134324ef6db?w=100&h=100&fit=crop",
+      "location": "Bangalore",
+      "salary": "12-18 LPA",
+      "experience": "2-4 Years",
+      "jobType": "Full-Time",
+      "postedDate": "3 days ago",
+      "description": "Work on cutting-edge AI and ML projects.",
+      "responsibilities": [
+        "Build ML models",
+        "Analyze complex datasets",
+        "Develop AI solutions",
+        "Publish research findings"
+      ],
+      "requirements": [
+        "Strong Python and ML knowledge",
+        "Experience with TensorFlow",
+        "Statistics and mathematics",
+        "Problem-solving ability"
+      ],
+      "skills": ["Python", "Machine Learning", "TensorFlow", "SQL", "Statistics"],
+      "about": "AI Solutions Ltd. is a leader in artificial intelligence.",
+      "industry": "Artificial Intelligence",
+      "employees": "250+",
+      "website": "www.aisolutions.com"
+    },
+    {
+      "id": 8,
+      "title": "Software Engineer",
+      "company": "TechCore Enterprises",
+      "companyLogo": "https://images.unsplash.com/photo-1633356122544-f134324ef6db?w=100&h=100&fit=crop",
+      "location": "Hyderabad",
+      "salary": "7-11 LPA",
+      "experience": "1-3 Years",
+      "jobType": "Full-Time",
+      "postedDate": "1 day ago",
+      "description": "Build robust software solutions with our engineering team.",
+      "responsibilities": [
+        "Write clean code",
+        "Develop features",
+        "Test and debug applications",
+        "Collaborate with team"
+      ],
+      "requirements": [
+        "Strong programming fundamentals",
+        "Experience with OOP",
+        "Testing knowledge",
+        "Communication skills"
+      ],
+      "skills": ["Java", "C++", "Python", "Git", "Agile"],
+      "about": "TechCore Enterprises delivers enterprise software.",
+      "industry": "Software Development",
+      "employees": "600+",
+      "website": "www.techcore.com"
+    },
+    {
+      "id": 9,
+      "title": "Frontend Developer",
+      "company": "WebDynamics Ltd.",
+      "companyLogo": "https://images.unsplash.com/photo-1633356122544-f134324ef6db?w=100&h=100&fit=crop",
+      "location": "Remote",
+      "salary": "9-13 LPA",
+      "experience": "1-3 Years",
+      "jobType": "Part-Time",
+      "postedDate": "2 days ago",
+      "description": "Part-time Frontend Developer role for flexible work.",
+      "responsibilities": [
+        "Develop UI components",
+        "Maintain web applications",
+        "Collaborate remotely",
+        "Contribute to documentation"
+      ],
+      "requirements": [
+        "React.js experience",
+        "CSS skills",
+        "Remote work experience",
+        "Self-motivated"
+      ],
+      "skills": ["React", "JavaScript", "CSS", "Tailwind"],
+      "about": "WebDynamics Ltd. offers flexible work opportunities.",
+      "industry": "Software Development",
+      "employees": "1000+",
+      "website": "www.webdynamics.com"
+    },
+    {
+      "id": 10,
+      "title": "Internship - Frontend Developer",
+      "company": "StartupHub Co.",
+      "companyLogo": "https://images.unsplash.com/photo-1633356122544-f134324ef6db?w=100&h=100&fit=crop",
+      "location": "Bangalore",
+      "salary": "Stipend",
+      "experience": "Fresher",
+      "jobType": "Internship",
+      "postedDate": "Today",
+      "description": "Great opportunity for freshers to learn and grow.",
+      "responsibilities": [
+        "Build web components",
+        "Learn modern frameworks",
+        "Work with mentors",
+        "Contribute to projects"
+      ],
+      "requirements": [
+        "Knowledge of HTML/CSS/JS",
+        "Willingness to learn",
+        "Dedication",
+        "6 month commitment"
+      ],
+      "skills": ["JavaScript", "React", "HTML", "CSS"],
+      "about": "StartupHub Co. nurtures young talent.",
+      "industry": "Startup",
+      "employees": "50+",
+      "website": "www.startuphub.co"
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Tech Innovators Inc.",
+      "logo": "https://images.unsplash.com/photo-1633356122544-f134324ef6db?w=100&h=100&fit=crop",
+      "industry": "Information Technology",
+      "employees": "500+",
+      "openPositions": 5,
+      "website": "www.techinnovators.com"
+    },
+    {
+      "id": 2,
+      "name": "CloudSync Solutions",
+      "logo": "https://images.unsplash.com/photo-1633356122544-f134324ef6db?w=100&h=100&fit=crop",
+      "industry": "Cloud Computing",
+      "employees": "200+",
+      "openPositions": 3,
+      "website": "www.cloudsync.com"
+    },
+    {
+      "id": 3,
+      "name": "WebDynamics Ltd.",
+      "logo": "https://images.unsplash.com/photo-1633356122544-f134324ef6db?w=100&h=100&fit=crop",
+      "industry": "Software Development",
+      "employees": "1000+",
+      "openPositions": 8,
+      "website": "www.webdynamics.com"
+    },
+    {
+      "id": 4,
+      "name": "Analytics Pro Inc.",
+      "logo": "https://images.unsplash.com/photo-1633356122544-f134324ef6db?w=100&h=100&fit=crop",
+      "industry": "Data Analytics",
+      "employees": "300+",
+      "openPositions": 2,
+      "website": "www.analyticspro.com"
+    }
+  ]
+}
